@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "qs_ui_refactor"
+  name: "clock_reactive_variants"
   state: ENABLED
   permission: READ_ONLY
 }

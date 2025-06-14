@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "qs_ui_refactor"
+  name: "double_tap_to_sleep"
   state: ENABLED
   permission: READ_ONLY
 }

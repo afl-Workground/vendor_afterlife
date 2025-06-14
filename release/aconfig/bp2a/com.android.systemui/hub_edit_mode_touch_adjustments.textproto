@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "qs_ui_refactor"
+  name: "hub_edit_mode_touch_adjustments"
   state: ENABLED
   permission: READ_ONLY
 }

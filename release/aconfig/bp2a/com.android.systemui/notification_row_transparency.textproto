@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "qs_ui_refactor"
+  name: "notification_row_transparency"
   state: ENABLED
   permission: READ_ONLY
 }
