@@ -20,5 +20,6 @@ aconfig_value_set {
         "aconfig-values-bp2a-com.android.systemui-all",
         "aconfig-values-bp2a-com.android.settings.flags-all",
         "aconfig-values-bp2a-com.android.launcher3-all",
+        "aconfig-values-bp2a-com.android.settings.flags-all",
     ],
 }
